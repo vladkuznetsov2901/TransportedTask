@@ -1,0 +1,50 @@
+<component name="libraryTable">
+  <library name="jetbrains.kotlinx.dataframe.symbol.processor" type="repository">
+    <properties maven-id="org.jetbrains.kotlinx.dataframe:symbol-processor:0.8.0-dev-1017" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/dataframe/symbol-processor/0.8.0-dev-1017/symbol-processor-0.8.0-dev-1017.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.6.20/kotlin-stdlib-jdk8-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.6.20/kotlin-stdlib-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-common/1.6.20/kotlin-stdlib-common-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/annotations/13.0/annotations-13.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.6.20/kotlin-stdlib-jdk7-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/dataframe/0.8.0-dev-1017/dataframe-0.8.0-dev-1017.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-csv/1.8/commons-csv-1.8.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-reflect/1.6.20/kotlin-reflect-1.6.20.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/beust/klaxon/5.5/klaxon-5.5.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/fuel/fuel/2.3.1/fuel-2.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/kittinunf/result/result/3.1.0/result-3.1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/kotlinx-datetime-jvm/0.3.1/kotlinx-datetime-jvm-0.3.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/squareup/kotlinpoet/1.11.0/kotlinpoet-1.11.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/dataframe-arrow/0.8.0-dev-1017/dataframe-arrow-0.8.0-dev-1017.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/arrow/arrow-vector/8.0.0/arrow-vector-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/arrow/arrow-memory-core/8.0.0/arrow-memory-core-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.13.2/jackson-core-2.13.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.13.2/jackson-annotations-2.13.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.13.2.2/jackson-databind-2.13.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.13.2/jackson-datatype-jsr310-2.13.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.72.Final/netty-common-4.1.72.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/flatbuffers/flatbuffers-java/1.12.0/flatbuffers-java-1.12.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/arrow/arrow-format/8.0.0/arrow-format-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/arrow/arrow-memory-unsafe/8.0.0/arrow-memory-unsafe-8.0.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/jetbrains/kotlinx/dataframe-excel/0.8.0-dev-1017/dataframe-excel-0.8.0-dev-1017.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi/5.2.2/poi-5.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/com/google/devtools/ksp/symbol-processing-api/1.6.20-1.0.5/symbol-processing-api-1.6.20-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
